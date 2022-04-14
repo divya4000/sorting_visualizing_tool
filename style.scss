@@ -1,10 +1,9 @@
 $no_algos: 6;
-
 *
 {
     margin: 0px;
     padding: 0px;
-    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-family: "Lucida Console", "Courier New", monospace;
     font-size: large;
     font-weight: bold;
     text-transform: uppercase;
@@ -136,20 +135,3 @@ section
 {
     display: none;
 }
-
-/*
-@media (max-width: 480px)//Mobiles
-{
-    
-}
-
-@media (min-width: 481px) and (max-width: 1250px)//Tablets
-{
-
-}
-
-@media (min-width: 1251px)//Laptops and up
-{
-
-}
-*/
